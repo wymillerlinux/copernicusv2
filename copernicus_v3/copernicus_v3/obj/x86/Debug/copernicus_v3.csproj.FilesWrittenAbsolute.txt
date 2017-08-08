@@ -1,0 +1,5 @@
+/home/wyatt/Source/copernicus_v3/copernicus_v3/copernicus_v3/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/wyatt/Source/copernicus_v3/copernicus_v3/copernicus_v3/bin/Debug/copernicus_v3.exe.mdb
+/home/wyatt/Source/copernicus_v3/copernicus_v3/copernicus_v3/bin/Debug/copernicus_v3.exe
+/home/wyatt/Source/copernicus_v3/copernicus_v3/copernicus_v3/obj/x86/Debug/copernicus_v3.exe
+/home/wyatt/Source/copernicus_v3/copernicus_v3/copernicus_v3/obj/x86/Debug/copernicus_v3.exe.mdb
